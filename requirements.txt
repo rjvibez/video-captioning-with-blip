@@ -1,0 +1,5 @@
+transformers==4.40.1
+torch>=2.0.0
+opencv-python==4.9.0.80
+Pillow==10.3.0
+accelerate==0.29.3
